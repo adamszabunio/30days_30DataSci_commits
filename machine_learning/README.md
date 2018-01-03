@@ -1,6 +1,6 @@
 # Machine Learning
 ### In this directory, I follow the Machine Learning tutorials from the [sentdex youtube channel](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) and code up some of the staple machine learning algorithms. 
-- In the [Object Oriented Programming directory](oop/) I take it a step further and code up the same algorithms as Python Classes. 
+- In the [Object Oriented Programming directory](oop/), I take it a step further and code up the same algorithms as Python Classes. 
 ---
 #### Algorithms from scratch and links to their respective code:
 + [Linear Regression](lin_reg/) (Day 1)
