@@ -9,4 +9,6 @@
 ---
 #### [Object Oriented Programming](oop/):
 + Implementing the Above Algorithms as a Python Class 
-	+ KNN (Day 2)
+	+ [SVM](oop/svm.py) (Day 2)
+	+ [KNN](oop/) (Day 3)
+	
