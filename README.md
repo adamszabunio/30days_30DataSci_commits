@@ -16,8 +16,7 @@
             + More detailed explanation can be found in the [Object Oriented Programming directory](machine_learning/oop/).
         + [K-Nearest Neighbors (KNN)](machine_learning/oop/knn.py) (Day 4).
             + This class makes a prediction for the UCI Machine Learning [Breast Cancer Dataset](machine_learning/datasets/citation.txt).
-        + After implementing KNN as a class, my mind returned to a spatial project, [[Yield Imputations](https://github.com/adamszabunio/yield_imputations)] that I put on hold for the holidays.
-            + I worked on this project during the final month of a Data Science internship with [Granular](www.granular.ag).  
-            + The goal of the project was to explore a variety of techniques to impute missing data, with spatial methods producing some of the best results.
-            + Specifically, the Ball Tree algorithm. The sklearn implementation was used to quickly build distance matrices for the project.
-            + An example of how I used the Ball Tree algorithm for the yield imputations project can be found [here](https://github.com/adamszabunio/yield_imputations/blob/master/spatial_lookup.py) (Day 6).
+    + After implementing KNN as a class, my mind returned to a spatial project, [[Yield Imputations](https://github.com/adamszabunio/yield_imputations)], that I put on hold for the holidays.
+        + This was my final project during the last month of a Data Science internship with [Granular](www.granular.ag).
+        + The goal of the project was to explore a variety of techniques to impute missing data, with spatial methods producing some of the best results. Specifically, the Ball Tree algorithm. The sklearn implementation was used to quickly build distance matrices for the project.
+        + An example of how I used the Ball Tree algorithm for the yield imputations project can be found [here (python Class)](https://github.com/adamszabunio/yield_imputations/blob/master/spatial_lookup.py) and a [1000 Bootstrap sample test](https://github.com/adamszabunio/yield_imputations/blob/master/bootstrapping.py) (Day 6).
