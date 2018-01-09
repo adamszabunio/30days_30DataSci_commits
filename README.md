@@ -9,6 +9,7 @@
 		+ [KNN (K-Nearest Neighbors)](machine_learning/knn/) (Day 1).
 		+ [Support Vector Machines](machine_learning/svm/) (Day 2).
 	+ [Object Oriented Programming](machine_learning/oop/) Implementing the Above Algorithms as a Python Class:
+        + [Linear Regression](machine_learning/oop/linregclass.py) (Day 7).
 		+ [Support Vector Machines (SVM)](machine_learning/oop/svm.py) (Day 2).
         + *Debugging of the SVM class (Day 3).
             + The issue was due to TAB width inconsistency. 
@@ -19,5 +20,6 @@
     + After implementing KNN as a class, my mind returned to a spatial project, [[Yield Imputations](https://github.com/adamszabunio/yield_imputations)], that I put on hold for the holidays.
         + This was my final project during the last month of a Data Science internship with [Granular](www.granular.ag).
         + The goal of the project was to explore a variety of techniques to impute missing data, with spatial methods producing some of the best results. Specifically, the Ball Tree algorithm. The sklearn implementation was used to quickly build distance matrices for the project.
-        + An example of how I used the Ball Tree algorithm for the yield imputations project can be found [here (python Class)](https://github.com/adamszabunio/yield_imputations/blob/master/spatial_lookup.py) (Day 6) 
-        + I continued analysis of the [1000 Bootstrap samples](https://github.com/adamszabunio/yield_imputations/blob/master/bootstrap/) (Day 7).
+        + An example of how I used the Ball Tree algorithm for the yield imputations project can be found [here (python Class)](https://github.com/adamszabunio/yield_imputations/blob/master/spatial_lookup.py) (Day 5) 
+        + I continued analysis of the [1000 Bootstrap samples](https://github.com/adamszabunio/yield_imputations/blob/master/bootstrap/) (Day 6).
+        + Complete overhaul of the Yield Imputations Repo (Day 8).
