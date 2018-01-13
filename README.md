@@ -33,4 +33,6 @@
     + To address this problem, I need to efficiently query more precise boundaries using polygons. To that end, Geopandas stands out as a promising soultion. 
     + First, I needed to upgrade the EC2 instance so that I could install Geopandas and its necessary geopsatial dependencies (Day 9).
     + Switching gears, I am experimenting with Django Geos in place of Geopandas (Day 10).
-    + Reformatting the earthquake database to query Points in Polygons using Django (Day 11). 
+    + Reformatting the earthquake database to query Points in Polygons using Django (Day 11).
+    + Reading in shapefiles using geodjango (Day 12).
+    + postgresql database
