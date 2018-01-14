@@ -35,4 +35,5 @@
     + Switching gears, I am experimenting with Django Geos in place of Geopandas (Day 10).
     + Reformatting the earthquake database to query Points in Polygons using Django (Day 11).
     + Reading in shapefiles using geodjango (Day 12).
-    + postgresql database
+    + Set up postgresql database locally (Day 13).
+    + Migrate django and db to ubuntu 
